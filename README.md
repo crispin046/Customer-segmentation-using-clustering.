@@ -286,3 +286,71 @@ The dataset can typically be found from:
 ## 3. Run the Notebook
 
 Run all notebook cells:
+
+The notebook will perform the following steps:
+
+- Data loading
+- Data cleaning
+- RFM calculation
+- Customer clustering
+- Data visualization
+
+---
+
+## 4. Review Results
+
+Analyze the generated outputs including:
+
+- Dataframes
+- Cluster statistics
+- Visualizations
+
+These outputs help interpret the **customer segmentation insights**.
+
+---
+
+# Technologies Used
+
+- **Python 3**
+- **Pandas**
+- **NumPy**
+- **Matplotlib**
+- **Seaborn**
+- **Scikit-learn**
+- **Google Colab**
+
+---
+
+# Executive Summary
+
+This project demonstrates how **RFM segmentation enhanced with Average Order Value (AOV)** provides deeper insights into customer purchasing behavior.
+
+By incorporating **AOV**, the segmentation distinguishes between:
+
+- **Frequent small-value buyers**
+- **Infrequent high-value buyers**
+
+This enables businesses to implement **more precise and personalized marketing strategies**.
+
+## Key Customer Segments
+
+- **Champions** – Loyal, high-value customers
+- **Big Spenders** – High-value but infrequent buyers
+- **Regular Shoppers** – Frequent customers with lower order value
+- **At-Risk Customers** – Customers likely to churn
+
+Applying **targeted marketing strategies** to these segments can significantly improve:
+
+- Customer retention
+- Customer lifetime value (CLV)
+- Marketing ROI
+- Overall business growth
+
+---
+
+# Author
+
+**Crispin Oigara**
+
+- LinkedIn: *https://www.linkedin.com/in/crispin-oigara-524a87358*
+- Portfolio: *Https://rebrand.ly/Crispin-AI*
